@@ -49,9 +49,9 @@ Config.AIResponse = {
 
 -- To Set This Up visit https://forum.cfx.re/t/how-to-updated-discord-rich-presence-custom-image/157686
 Config.Discord = {
-    isEnabled = false,                                     -- If set to true, then discord rich presence will be enabled
-    applicationId = '00000000000000000',                   -- The discord application id
-    iconLarge = 'logo_name',                               -- The name of the large icon
+    isEnabled = true,                                     -- If set to true, then discord rich presence will be enabled
+    applicationId = '1217680070907527248',                   -- The discord application id
+    iconLarge = '1024x1024',                               -- The name of the large icon
     iconLargeHoverText = 'This is a Large icon with text', -- The hover text of the large icon
     iconSmall = 'small_logo_name',                         -- The name of the small icon
     iconSmallHoverText = 'This is a Small icon with text', -- The hover text of the small icon
